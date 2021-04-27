@@ -1,11 +1,14 @@
 {
 	"file": "https://raw.githubusercontent.com/giakountis/test/master/Upset_plots/Oncogenic_Testing_miRNAs.csv",
-	"name": "Oncogenic",
+	"name": "Oncogenic_Testing_miRNAs",
 	"header": 0,
 	"separator": ";",
 	"skip": 0,
 	"meta": [
-		{ "type": "id", "index": 0, "name": "miRNA" }
+		{ "type": "id", "index": 0, "name": "miRNA" },
+		{ "type": "float", "index": 5, "name": "ODDs", "min": 0.1, "max": 15.5 },
+		{ "type": "float", "index": 6, "name": "logFC", "min": -0.6, "max": 8.6 },
+		{ "type": "float", "index": 7, "name": "PCA_Rank", "min": 1, "max": 1388 }
 	],
 	"sets": [
 		{ "format": "binary", "start": 1, "end": 4 }
