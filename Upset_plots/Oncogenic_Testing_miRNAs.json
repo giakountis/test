@@ -1,5 +1,5 @@
 {
-	"file": "https://github.com/giakountis/test/blob/master/Upset_plots/Oncogenic_Testing_miRNAs.csv",
+	"file": "https://raw.githubusercontent.com/giakountis/test/master/Upset_plots/Oncogenic_Testing_miRNAs.csv",
 	"name": "Oncogenic",
 	"header": 0,
 	"separator": ";",
