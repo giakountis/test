@@ -1,0 +1,13 @@
+{
+	"file": "https://www.dropbox.com/s/5zlc0vs7vbhakq8/Oncogenic_Testing_miRNAs.csv",
+	"name": "Oncogenic",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "miRNA" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 4 }
+	]
+}
